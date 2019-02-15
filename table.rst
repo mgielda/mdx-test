@@ -6,4 +6,4 @@
    this ; `that <https://google.com>`_
 
 .. csv-table:: 
-   :urk: ./file.csv
+   :urk: https://raw.githubusercontent.com/mgielda/test/master/file.csv
