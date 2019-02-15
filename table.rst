@@ -3,4 +3,4 @@
    :header-rows: 1
    
    good ; evil
-   this ; that
+   this ; `that <https://google.com>`_
