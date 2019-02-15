@@ -4,3 +4,5 @@
    
    good ; evil
    this ; `that <https://google.com>`_
+
+.. csv-table:: file.csv
