@@ -6,4 +6,4 @@
    this ; `that <https://google.com>`_
 
 .. csv-table:: 
-   :file: file.csv
+   :urk: ./file.csv
