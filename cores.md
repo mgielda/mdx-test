@@ -4,6 +4,8 @@ This document captures the status of various cores and SoCs that endeavor to imp
 
 Please add to the list and fix inaccuracies.
 
+## Cores
+
 Name | Links | Priv. spec | User spec | License | Maintainers
 ---- | ----- | ---------- | --------- | ------- | -----------
 rocket | [GitHub](https://github.com/freechipsproject/rocket-chip) | 1.11-draft | 2.3-draft | BSD | SiFive, UCB Bar
@@ -26,7 +28,7 @@ MR1 | [GitHub](https://github.com/tomverbeure/mr1) | | RV32I | Unlicense | Tom V
 SERV | [GitHub](https://github.com/olofk/serv) | | RV32I | ISC | Olof Kindgren
 SweRV EH1 | [GitHub](https://github.com/westerndigitalcorporation/swerv_eh1) | | RV32IMC | Apache 2.0 | Western Digital Corporation
 
-# SoCs
+## SoC platforms
 
 Name | Links | Core | License | Maintainers
 ---- | ----- | ---- | ------- | -----------
@@ -41,7 +43,7 @@ Raven | [GitHub](https://github.com/efabless/picorv32-soc-raven) | PicoRV32 | IS
 PicoSoC | [GitHub](https://github.com/cliffordwolf/picorv32/tree/master/picosoc) | PicoRV32 | ISC | Clifford Wolf
 Icicle | [GitHub](https://github.com/grahamedgecombe/icicle) | RV32I | ISC | Graham Edgecombe
 
-# Chips
+## SoCs
 
 Include a chip if it has been fabricated and is either available for sale, available for preorder, or running production workloads internally, and if it has at least one RISC-V hard core (no FPGAs, but non-"SoC" products 
  with controller cores are allowed).
