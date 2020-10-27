@@ -1,6 +1,7 @@
 # The title
 
-<Custom lang="en">lalala
+<Custom lang="en">
+lalala
 
 this is a directive, people!
 </Custom>
