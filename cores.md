@@ -1,1 +1,4 @@
-<Custom>lalala</Custom>
+<Custom lang="en">lalala
+
+this is a directive people
+</Custom>
