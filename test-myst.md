@@ -1,3 +1,8 @@
+---
+frontmatter: some
+title: other
+---
+
 # MyST file
 
 This is a {some-role}`custom role`.
